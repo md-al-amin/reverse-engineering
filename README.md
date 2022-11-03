@@ -1,2 +1,1 @@
-# reverse-engineering
-gdb
+# reverse-engineering notes
