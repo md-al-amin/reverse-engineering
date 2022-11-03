@@ -1,2 +1,2 @@
-# reverse-engineering-gdb
+# reverse-engineering
 gdb
